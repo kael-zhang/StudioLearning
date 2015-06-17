@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/proguard-rules.pro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/FullTestSuite.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/TestFetchWeatherTask.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/data/TestDb.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/data/TestProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/data/TestUriMatcher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/data/TestUtilities.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/data/TestWeatherContract.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/zyw/studiolearning/utils/PollingCheck.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/UI/DetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/UI/ForecastFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/UI/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/UI/SettingsFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/adapter/ForecastAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/data/WeatherContract.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/data/WeatherDbHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/data/WeatherProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zyw/studiolearning/network/FetchWeatherTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gradlew" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
